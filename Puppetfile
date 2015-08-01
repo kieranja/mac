@@ -57,7 +57,7 @@ github "ruby",        "8.5.2"
 github "stdlib",      "4.2.1", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",        "1.0.0"
 github "xquartz",     "1.2.1"
-github "vagrant"      "1.7.4"
+github "vagrant""
 #github "intellij"    
 github "chrome"
 
